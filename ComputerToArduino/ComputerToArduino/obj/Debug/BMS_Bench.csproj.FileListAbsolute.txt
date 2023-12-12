@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\BMS_Bench.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\BMS_Bench.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\BMS_Bench.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+C:\Users\HP\Desktop\BMS proyect\arudino ejemplo\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
